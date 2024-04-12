@@ -1,1 +1,4 @@
-# 2023-batting
+# 2023-batting-averages 
+### The purpose of the project was to discover which metrics had the biggest impact on batting averages. Metrics about exit velocity, launch angle, and barrel rates from the 2023 were used. This was done with the use of linear regressions. 
+### The conclusion of the results was that none of the metrics alone were heavily correlated to predicting batting average, but when combined the correlation was increased drastically. This was discovered with the use of the R^2 scores. The MSE scores throughout the project were very low, suggesting that the regressions were able to accuralty predict batting average based on the metrics.  
+### The project could be improved by adding more metrics into the equation. Adding elements such as swing/take metrics and metrics from specific pitch types could improve the model. 
